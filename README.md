@@ -9,4 +9,3 @@ Currently, two official plugins are available:
 # DesafioLatam-PizzaMamaMia
 
 
-##  PAGINA WEB: https://mamamiapizza.netlify.app/# Pizza-Mamamia-Final
